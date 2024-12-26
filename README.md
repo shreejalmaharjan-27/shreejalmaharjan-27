@@ -1,9 +1,12 @@
 ### Hi there 👋
 
 - Programmer? Web Developer?
-- 🌱 I’m currently learning Laravel, Nuxt 3
 - 📫 How to reach me: [✉️](mailto:shreejal@rafled.com)
 - 😄 Pronouns: he/him
 
-#### My Skills
-[![My Skills](https://skillicons.dev/icons?i=aws,js,html,css,arch,bash,bootstrap,bun,cloudflare,docker,git,github,laravel,linux,debian,mongodb,mysql,nginx,nodejs,php,postman,py,react,redis,regex,threejs,ts,ubuntu,wordpress,workers)](https://skillicons.dev)
+#### My Tech Stack
+[![My Stack](https://skillicons.dev/icons?i=aws,bun,cloudflare,docker,laravel,github,mysql,nginx,nodejs,py,react,redis,ts,ubuntu,wordpress,workers)](https://skillicons.dev)
+
+
+### Visit my Website
+[![Website](https://img.shields.io/badge/Website-shreej.al-darkgreen?style=for-the-badge&logo=webflow)](https://shreej.al/maharjan)
